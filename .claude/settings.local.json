@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:quizlet.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.examtopics.com)",
+      "WebFetch(domain:amrit-hub.github.io)"
+    ]
+  }
+}

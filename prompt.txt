@@ -1,0 +1,6 @@
+Read the CLAUDE.md first. 
+
+Then quiz me on Delta Lake fundamentals - search the web for real Databricks Data Engineer Associate exam questions about Delta Lake. 
+Present 5 questions one at a time. 
+wait for my answer before showing the next one. 
+Track my score.
